@@ -132,7 +132,7 @@ img {
     background: var(--focus-color);
     width: 100%;
     height: 4px;
-    bottom: -32px;
+    bottom: -43px;
     left: -1px;
     border-radius: 2px;
     content: "";
