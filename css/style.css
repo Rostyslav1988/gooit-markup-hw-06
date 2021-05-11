@@ -134,7 +134,7 @@ img {
     height: 4px;
 
     bottom: -32px;
-    
+
     left: -1px;
     border-radius: 2px;
     content: "";
@@ -1019,7 +1019,7 @@ padding-top: 94px;
 
 }
 .modal {
-    position: absolute;
+    
     Width: 528px;
     Height: 581px;
     background-color: #FFFFFF;
